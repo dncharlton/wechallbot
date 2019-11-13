@@ -10,7 +10,7 @@ Use the package manager [npm](https://www.npmjs.com/get-npm) to install WeChallB
 npm install
 ```
 Add your connection token to the .env file in place of <TOKEN>.
-```javascript
+```
 # API
 API_TOKEN=<TOKEN>
 ```
